@@ -4,8 +4,13 @@ MATA KULIAH PEMBELAJARAN MESIN 2
 oleh : Nasywa Kynda Sanina TI/5
 NIM : 442023619074
 
-berikut adalah model cnn yang berfungsi untuk memprediksi gender (pria/wanita) dari citra 2D yang diberikan. model ini menggunakan dataset yang terdiri dari 100 wajah pria dan 100 wajah wanita masing-masing untuk data testing dan training model. berikut adalah struktur dari model CNN yang digunakan:
+berikut adalah model cnn yang berfungsi untuk memprediksi gender (pria/wanita) dari citra 2D yang diberikan. model ini menggunakan dataset yang terdiri dari 100 wajah pria dan 100 wajah wanita masing-masing untuk data testing dan training model. 
 
+genderDataset  : https://www.kaggle.com/datasets/nasywakynda/gender-datasets
+output best model  : https://drive.google.com/file/d/1oOJ41Zo9AUou6yEOzAW3dvDrF5mkaJFN/view?usp=sharing
+output gender checkpoint  : https://drive.google.com/file/d/1QmMw9JxqX-zIpUBlxDeBa57G5oAZki4E/view?usp=sharing
+
+berikut adalah struktur dari model CNN yang digunakan:
 WEEK4 INDIVIDU
 ├── data/ 
 |       ├── genderDataset
